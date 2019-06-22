@@ -1,0 +1,7 @@
+C:\Users\Gökhan\source\repos\MetinKelime\MetinKelime\bin\Debug\MetinKelime.exe.config
+C:\Users\Gökhan\source\repos\MetinKelime\MetinKelime\bin\Debug\MetinKelime.exe
+C:\Users\Gökhan\source\repos\MetinKelime\MetinKelime\bin\Debug\MetinKelime.pdb
+C:\Users\Gökhan\source\repos\MetinKelime\MetinKelime\obj\Debug\MetinKelime.csprojAssemblyReference.cache
+C:\Users\Gökhan\source\repos\MetinKelime\MetinKelime\obj\Debug\MetinKelime.csproj.CoreCompileInputs.cache
+C:\Users\Gökhan\source\repos\MetinKelime\MetinKelime\obj\Debug\MetinKelime.exe
+C:\Users\Gökhan\source\repos\MetinKelime\MetinKelime\obj\Debug\MetinKelime.pdb
